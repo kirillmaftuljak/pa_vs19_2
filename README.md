@@ -29,3 +29,15 @@ git commit -m "Muudatuse kirjeldus"
 ```
 git push -uf origin master
 ```
+
+* git kasutamine PhpStorm keskkonnas
+```
+VCS -> Commit (CTRL+K)
+```
+* Vali failid, mille sisu on vaja commitida
+* Määra vastav kirjeldus
+* Commmiti ära -> Commit and Push
+
+
+## Abiks
+* [README.md_failide_süntaks](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
