@@ -14,7 +14,7 @@ Antud kursuse raames omandatakse baasteadmised programmerimisest PHP Keele aluse
     * PhpStorm githubi repo kloneerimine arvutisse
 ### 23.09.2019
 * git kasutamine
-``x`
+```
 git init
 ```
 * Lisa vastav fail jälgimisele git poolt
