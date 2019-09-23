@@ -11,11 +11,11 @@
 //
 
 $nimi = "Kirill Maftuljak";
-$perenimi = "Maftuljak"
+$perenimi = "Maftuljak";
 $yksus = "IKT OSAKOND";
 $email = "kirill.maftuljak@khk.ee";
 
 // muutujate kasutamine - kutsumine
-echo $nimi."<br>";
+echo $nimi."<br>", .$perenimi."<br>";
 echo $yksus."<br>";
 echo $email."<br>";
