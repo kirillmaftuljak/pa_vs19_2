@@ -41,3 +41,4 @@ VCS -> Commit (CTRL+K)
 
 ## Abiks
 * [README.md_failide_süntaks](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+

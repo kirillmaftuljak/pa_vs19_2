@@ -58,21 +58,21 @@ echo '
             <!-- lahutamine -->
             <tr>
                 <td>x - y</td>
-                <td>Liitmine</td>
+                <td>Lahutamine</td>
                 <td>'.$x.' - '.$y.'</td>
                 <td>'.$diff.'</td>
             </tr>
             <!-- korrutamine -->
             <tr>
                 <td>x * y</td>
-                <td>Liitmine</td>
+                <td>Korrutamine</td>
                 <td>'.$x.' * '.$y.'</td>
                 <td>'.$product.'</td>
             </tr>
             <!-- jagamine -->
             <tr>
                 <td>x / y</td>
-                <td>Liitmine</td>
+                <td>Jagamine</td>
                 <td>'.$x.' / '.$y.'</td>
                 <td>'.$divide.'</td>
             </tr>

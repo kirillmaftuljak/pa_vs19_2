@@ -1,7 +1,7 @@
 <?php
 
 // Variable of Celsius
-$C = 40;
+$C = ;
 
 // Fahrenheit   F=(9/5)*C+32
 $F = (9/5) * $C + 32;

@@ -21,7 +21,3 @@
     </div>
     <input type="submit" value="Saada">
 </form>
-
-
-
-<?php
